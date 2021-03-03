@@ -4,7 +4,7 @@
 1. Clone down this repo
 1. Make some changes: add a new file, or edit existing ones
 1. `git checkout -b your-branch-name` to create your own branch
-1. `git add name-of-changed-file>` to stage the file for committing
+1. `git add <name-of-changed-file>` to stage the file for committing
 1. `git commit -m 'your commit message goes here'` to commit the changes
 1. `git push origin your-branch-name` to send those changes to github
 1. Go to the hw repo on github
